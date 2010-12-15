@@ -1,0 +1,1 @@
+DbMetal.exe /namespace:Database /provider:SQLite "/conn:Data Source=Example.s3db" /code:../Database.cs /pluralize
